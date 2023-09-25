@@ -1,7 +1,8 @@
 # DevConnector
 This platform is to bring togther developer across the globe
 
-https://devconnector-client-yqrp.onrender.com/
+Live SITE: https://devconnector-client-yqrp.onrender.com/
+Git hub: 
 
 #Tech stack
 MERN ( MongoDB, Express, React, Node)
